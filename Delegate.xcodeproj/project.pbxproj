@@ -16,6 +16,7 @@
 		DBECB28C2B0DE35300421E97 /* DelegateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBECB28B2B0DE35300421E97 /* DelegateTests.swift */; };
 		DBECB2962B0DE35300421E97 /* DelegateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBECB2952B0DE35300421E97 /* DelegateUITests.swift */; };
 		DBECB2982B0DE35300421E97 /* DelegateUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBECB2972B0DE35300421E97 /* DelegateUITestsLaunchTests.swift */; };
+		DBECB2A52B0DE5F600421E97 /* ModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DBECB2A42B0DE5F600421E97 /* ModalViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		DBECB2912B0DE35300421E97 /* DelegateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DelegateUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DBECB2952B0DE35300421E97 /* DelegateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelegateUITests.swift; sourceTree = "<group>"; };
 		DBECB2972B0DE35300421E97 /* DelegateUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DelegateUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DBECB2A42B0DE5F600421E97 /* ModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				DBECB2742B0DE35100421E97 /* AppDelegate.swift */,
 				DBECB2762B0DE35100421E97 /* SceneDelegate.swift */,
 				DBECB2782B0DE35100421E97 /* ViewController.swift */,
+				DBECB2A42B0DE5F600421E97 /* ModalViewController.swift */,
 				DBECB27A2B0DE35100421E97 /* Main.storyboard */,
 				DBECB27D2B0DE35200421E97 /* Assets.xcassets */,
 				DBECB27F2B0DE35200421E97 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBECB2A52B0DE5F600421E97 /* ModalViewController.swift in Sources */,
 				DBECB2792B0DE35100421E97 /* ViewController.swift in Sources */,
 				DBECB2752B0DE35100421E97 /* AppDelegate.swift in Sources */,
 				DBECB2772B0DE35100421E97 /* SceneDelegate.swift in Sources */,
